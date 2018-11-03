@@ -1,0 +1,2 @@
+- I ADVISE THAT YOU READ monitor.py FIRST. THEN craft.py. THEN MOVE ONTO THE LINKS IN resource.txt. DON'T LOSE HOPE. TALK TO ME WHEN YOU WANT.
+- always try harder

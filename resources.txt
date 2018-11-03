@@ -1,0 +1,10 @@
+USEFUL RESOURCES TO CHECK OUT / KEEP IN MIND:
+	VERY USEFUL:
+		https://www.youtube.com/watch?v=KzeD3GCZGdI&t=1137s
+		https://www.youtube.com/watch?v=dyP_CEeIQ-A
+		https://www.youtube.com/watch?v=tJuuh5CSP5c
+	
+	FAIRLY USEFUL:
+		https://scapy.readthedocs.io/en/latest/
+		https://scapy.net/
+		http://packetlife.net/blog/2011/may/23/introduction-scapy/
